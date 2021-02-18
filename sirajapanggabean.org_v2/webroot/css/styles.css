@@ -1,0 +1,107 @@
+body {
+    background-color: #e5e5e5;
+}
+
+.meta-post {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.header header {
+    background-color:#0A9EA9;
+    padding: 10px 20px;
+    margin-top: 15px;
+    box-shadow: 7px 7px 10px;
+    border-radius:7px;
+    margin-bottom:5px;
+    border: 5px solid brown;
+}
+
+nav.menus {
+    background-color: chocolate;
+    padding: 10px 5px 0 10px;
+    border-radius:5px;
+    font-size: 20px;
+}
+
+nav.box {
+    margin-top: 10px;
+    background-color: red;
+    padding: 10px;
+    border-radius:5px;
+}
+nav.menus ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav.menus ul li {
+    display: inline-block;
+}
+
+nav.menus ul li a {
+    display: block;
+    padding: 3px 7px;
+    color: #fff;
+}
+
+nav.menus ul li a:hover, nav.menus ul li a:focus{
+    text-decoration: none;
+    background-color: #c0392b;
+    color: #fff;
+}
+
+article.posts {
+    padding: 10px 20px;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+aside.widgets {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #fff;
+}
+aside.widgets ul {
+    margin:0;
+    padding:0;
+}
+aside.widgets li {
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.widget-title {
+  border-bottom: 4px solid #E74C3C;
+  padding-bottom: 4px;
+}
+
+footer.copyright {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 12px;
+     background-color: chocolate;
+     box-shadow: 7px 7px 10px;
+     margin-bottom: 20px;
+     border-radius: 3px ;
+}
+
+.logo
+{
+    height: 120px;
+    width: 120px;
+    margin-top: -30px;
+    border-radius: 20px; 
+
+ 
+}
+img{
+
+    margin-bottom: 20px;
+}
+div.galery{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
